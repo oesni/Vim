@@ -17,6 +17,11 @@
       "type": "gulp",
       "task": "build",
       "problemMatcher": []
+    },
+    {
+      "type": "gulp",
+      "task": "build-dev",
+      "problemMatcher": []
     }
   ]
 }
